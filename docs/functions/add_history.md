@@ -63,4 +63,4 @@ int main() {
 
 ---
 
-**Geri:** [SUBJECT](../subject/subject.md) / [Minishell Harici Fonksiyonları](minishell_functions.md) / **add_history()**
+**Geri:** [SUBJECT](../../README.md) / [Minishell Harici Fonksiyonları](minishell_functions.md) / **add_history()**

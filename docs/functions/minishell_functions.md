@@ -92,5 +92,5 @@ readline kütüphanesine ait, komut geçmişini yönetmek ve satırı düzenleme
 
 - [`tgetent`](tgetent.md), [`tgetflag`](tgetflag.md), [`tgetnum`](tgetnum.md), [`tgetstr`](tgetstr.md), [`tgoto`](tgoto.md), [`tputs`](tputs.md): Termcap kütüphanesi fonksiyonları — terminal özelliklerini sorgulamak ve terminal üzerinde hareket veya renk gibi işlemleri yapmak için.  
 
-**Geri:** [SUBJECT](/subject/subject.md#) / **Minishell Fonksiyonları**
+**Geri:** [SUBJECT](../../README.md) / **Minishell Fonksiyonları**
 >>>>> ---

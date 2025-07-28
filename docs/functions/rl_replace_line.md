@@ -61,4 +61,4 @@ int main() {
 
 ---
 
-**Geri:** [SUBJECT](../subject/subject.md) / [Minishell Harici Fonksiyonları](minishell_functions.md) / **rl_replace_line()**
+**Geri:** [SUBJECT](../../README.md) / [Minishell Harici Fonksiyonları](minishell_functions.md) / **rl_replace_line()**

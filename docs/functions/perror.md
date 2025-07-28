@@ -62,4 +62,4 @@ Dosya açma hatası: No such file or directory
 
 ---
 
-**Geri:** [SUBJECT](../subject/subject.md) / [Minishell Harici Fonksiyonları](minishell_functions.md) / **perror()**
+**Geri:** [SUBJECT](../../README.md) / [Minishell Harici Fonksiyonları](minishell_functions.md) / **perror()**
