@@ -92,13 +92,13 @@ Minishell ile zamanda geriye yolculuk yapacak ve Windows var olmadan önce geli�
 Bu proje **Readline** kütüphanesini kullanmaktadır. Derleme hatası almamak için sisteminizde bu kütüphanenin kurulu olduğundan emin olun:
 
 **Debian/Ubuntu/WSL:**
-    ```bash
-    sudo apt update && sudo apt install libreadline-dev -y
-    ```
+```bash
+   sudo apt update && sudo apt install libreadline-dev -y
+```
 **macOS (Homebrew):**
-    ```bash
+```bash
     brew install readline
-    ```
+```
 
 #### Kullanım
 ```bash
@@ -127,6 +127,7 @@ CTRL+D     # Alternatif olarak bu tuş kombinasyonu ile de çıkabilirsiniz
 📁 Proje GitHub Sayfası: [github.com/tolgauzan/minishell](https://github.com/tolgauzan/minishell)
 
 🧑‍💻 Hazırlayanlar: Tolga Uzan & Ayşe Feyza Serbest
+
 
 
 
