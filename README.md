@@ -101,16 +101,6 @@ Bu proje **Readline** kütüphanesini kullanmaktadır. Derleme hatası almamak i
     ```
 
 #### Kullanım
-
-Gereksinimleri sağladıktan sonra projeyi klonlayıp çalıştırabilirsiniz:
-
-```bash
-git clone [https://github.com/tolgauzan/minishell.git](https://github.com/tolgauzan/minishell.git) && \
-cd minishell && \
-make && \
-./minishell
-
-#### Kullanım
 ```bash
 git clone https://github.com/tolgauzan/minishell.git && \
 cd minishell && \
@@ -137,4 +127,5 @@ CTRL+D     # Alternatif olarak bu tuş kombinasyonu ile de çıkabilirsiniz
 📁 Proje GitHub Sayfası: [github.com/tolgauzan/minishell](https://github.com/tolgauzan/minishell)
 
 🧑‍💻 Hazırlayanlar: Tolga Uzan & Ayşe Feyza Serbest
+
 
